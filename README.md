@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently studying Computer Science at W&L University
+
 <!--
 **cherkaibohdan/cherkaibohdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
